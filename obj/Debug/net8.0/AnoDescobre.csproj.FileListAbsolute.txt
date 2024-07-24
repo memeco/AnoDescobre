@@ -1,0 +1,14 @@
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/bin/Debug/net8.0/AnoDescobre
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/bin/Debug/net8.0/AnoDescobre.deps.json
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/bin/Debug/net8.0/AnoDescobre.runtimeconfig.json
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/bin/Debug/net8.0/AnoDescobre.dll
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/bin/Debug/net8.0/AnoDescobre.pdb
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/AnoDescobre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/AnoDescobre.AssemblyInfoInputs.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/AnoDescobre.AssemblyInfo.cs
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/AnoDescobre.csproj.CoreCompileInputs.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/AnoDescobre.dll
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/refint/AnoDescobre.dll
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/AnoDescobre.pdb
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/AnoDescobre.genruntimeconfig.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/AnoDescobre/obj/Debug/net8.0/ref/AnoDescobre.dll
